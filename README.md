@@ -1,6 +1,6 @@
 # 🚀 FastAPI + Google Gemini: Build an AI Endpoint
 
-This project demonstrates how to build a secure and powerful AI-powered API using **FastAPI** and Google's **Gemini** LLM model
+This project demonstrates how to build a secure and powerful AI-powered API using **FastAPI** and Google's **Gemini** LLM model.
 
 ![FastAPI-For-AI-Apps-image](./FastAPI_for_AI_Apps.png)
 
